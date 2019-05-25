@@ -1,2 +1,2 @@
-# GrafosPython
-Grafos utilizando a linguagem de programação python
+# Grafos
+Grafos utilizando a linguagem de programação python e java para a materia de teoria dos grafos
