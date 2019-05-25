@@ -1,5 +1,5 @@
 print("iniciando em python")
-
+print("grafinho feito de forma mais burra possivel")
 grafo={"a":["ac","ca"],
         "b":["cb","bc","be","eb"],
         "c":["ce","ec","cd","dc","ca","ac","bc","cb"],
